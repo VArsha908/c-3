@@ -1,0 +1,7 @@
+C:\Users\varsha\Desktop\c#\Products\Products\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\varsha\Desktop\c#\Products\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\varsha\Desktop\c#\Products\Products\bin\Debug\Products.exe.config
+C:\Users\varsha\Desktop\c#\Products\Products\bin\Debug\Products.exe
+C:\Users\varsha\Desktop\c#\Products\Products\bin\Debug\Products.pdb
+C:\Users\varsha\Desktop\c#\Products\Products\obj\Debug\Products.exe
+C:\Users\varsha\Desktop\c#\Products\Products\obj\Debug\Products.pdb
